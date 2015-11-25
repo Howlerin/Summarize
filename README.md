@@ -1,10 +1,13 @@
-# summarize
+# === Summarize ===
 
-=== Summarize ===
 CONTRIBUTORS: Radu Vaduva
+
 TAGS: recent posts, recent entries, summary, latest posts, latest entires, shorcode, hatom, microformats, sandbox, excerpt
+
 REQUIRES AT LEAST: 2.5
+
 TESTED UP TO: 2.6
+
 STABLE TAG: 0.1
 
 Summarize produces a list of the latest blog post excerpts with the shortcode `[summarize]`.
