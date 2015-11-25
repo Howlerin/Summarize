@@ -1,7 +1,7 @@
 # summarize
 
 === Summarize ===
-CONTRIBUTORS: Radu Vaduva	
+CONTRIBUTORS: Radu Vaduva
 TAGS: recent posts, recent entries, summary, latest posts, latest entires, shorcode, hatom, microformats, sandbox, excerpt
 REQUIRES AT LEAST: 2.5
 TESTED UP TO: 2.6
